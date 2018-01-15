@@ -17,7 +17,7 @@ body {	background-image: url("../img/background.jpg");}
 #powerB{position:absolute;right:0}
 #pause {top:5%;right:-65%;position:relative;}
 #playimg{display:none}
-#opcionesa{display:none;z-index:45000;position:fixed;top:25%;left:30%;background-color:blue}
+#opcionesa{display:none;z-index:45000;position:fixed;top:25%;left:30%;}
 #cpanel{
     list-style:none;
 }
