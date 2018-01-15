@@ -1,15 +1,24 @@
 # Trabajo-con-js-Lunar-Lander
 
-Este proyecto está basado en el anterior proyecto de html y css en su gran mayoria.
-Se ha añadido el apartado java, y basandome en la guia de la que disponiamos se ha modificado:
+Este proyecto está basado en el anterior proyecto de html y css en su gran mayoría.
 
-La nave aterriza y deja de gastar fuel cuando lo hace.
+Mi Pagina: https://rawgit.com/christiancampos123/Trabajo-con-js-Lunar-Lander/master/index.html
 
-Tiene mensaje de victoria y derrota además de comprobar cual de las dos se produce.
+Se ha añadido el apartado java, y basandome en la guía de la que disponíamos se ha modificado:
 
-Tiene 3 niveles de dificultad.
+1-La nave aterriza y deja de gastar fuel cuando lo hace.
 
-Menú desplegable con botones extra (info, replay...) desplegables al pulsar el botón pausa.
+2-Tiene mensaje de victoria y derrota además de comprobar cual de las dos se produce.
 
-Sistema de altura descendiente.
+3-Tiene 3 niveles de dificultad.
+
+4-Menú desplegable con botones extra (info, replay...) desplegables al pulsar el botón pausa.
+
+5-Sistema de altura descendiente.
+
+6-La nave tiene animación de motor en marcha.
+
+7- Botón clicable para el funcionamiento de la nave.
+
+8- Reset.
  
